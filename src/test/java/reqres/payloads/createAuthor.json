@@ -1,6 +1,6 @@
 {
-  "id": 2,
-  "idBook":99,
-  "firstName": "Author",
-  "lastName": "Book2"
+  "id": "#(id)",
+  "idBook":"#(idBook)",
+  "firstName": "#(firstName)",
+  "lastName": "#(lastName)"
 }
